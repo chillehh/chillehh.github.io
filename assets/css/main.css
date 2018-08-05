@@ -2186,6 +2186,10 @@
 				background-image: url("../../images/banner.png");
 			}
 
+			#main > section.one.1 {
+				background-color: #81918E;
+			}
+
 			#main > section.two {
 				background-color: #f5fafa;
 			}
